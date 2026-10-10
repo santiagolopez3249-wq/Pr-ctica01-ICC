@@ -7,7 +7,7 @@ import java.util.Scanner;
 * @author Santiago López Paulino
 * @version Primera versión
 */
-public class Psicólogo {
+public class Psicologo {
 
 /**
      * Método principal que ejecuta la simulación de la sesión psicológica es "public static void (String [] args)".
